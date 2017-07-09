@@ -5,13 +5,13 @@
   <DesignatorCancelDesc>إلغاء مؤشرات اوامر البناء, الحفر, النقل, الحصاد و كل مؤشرات الاوامر الاخرى.</DesignatorCancelDesc>
 
   <DesignatorCutPlants>قطع النبات</DesignatorCutPlants>
-  <DesignatorCutPlantsDesc>إتأشير النبتة للقص. سيتم قص النبتة و إزالتها, اي نبتة تحوي على غذاء سيتم حصدها.</DesignatorCutPlantsDesc>
+  <DesignatorCutPlantsDesc>تأشير النبتة للقص. سيتم قص النبتة و إزالتها, اي نبتة تحوي على غذاء سيتم حصدها.</DesignatorCutPlantsDesc>
 
   <DesignatorDeconstruct>هدم</DesignatorDeconstruct>
   <DesignatorDeconstructDesc>تأشير بناء أو اثاث للهدم. سيتم استرداد بعض المواد التي استخدمت في صناعته.</DesignatorDeconstructDesc>
 
-  <DesignatorUninstall>Uninstall</DesignatorUninstall>
-  <DesignatorUninstallDesc>Uninstall this so it can be moved, sold, or installed somewhere else.</DesignatorUninstallDesc>
+  <DesignatorUninstall>إزالة</DesignatorUninstall>
+  <DesignatorUninstallDesc>أزل هذا الشيء واحفظه للنقل أو البيع أو التركيب في وقت ومكان لاحقين.</DesignatorUninstallDesc>
 
   <DesignatorHarvest>حصاد</DesignatorHarvest>
   <DesignatorHarvestDesc>تاشير النتة للحصاد. سيتم الحصول على الغذاء من النبتة إن أمكن, لكن لن يتم إزالة النبتة.</DesignatorHarvestDesc>
@@ -73,26 +73,26 @@
   <DesignatorZoneDelete>Delete zones</DesignatorZoneDelete>
   <DesignatorZoneDeleteDesc>Remove zones, like stockpile zones or growing zones.</DesignatorZoneDeleteDesc>
 
-  <DesignatorClaim>Claim</DesignatorClaim>
-  <DesignatorClaimDesc>Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists.</DesignatorClaimDesc>
+  <DesignatorClaim>إستوطن</DesignatorClaim>
+  <DesignatorClaimDesc>أضف هذه الأرض إلى المستعمرة, مثل البقايا الأثرية وقواعد الحصار المهجورة. الإستوطان يتيح للمستعمرين أن يحافظوا عليها.</DesignatorClaimDesc>
 
-  <DesignatorRemoveFloor>Remove floor</DesignatorRemoveFloor>
-  <DesignatorRemoveFloorDesc>Remove floors to reveal the terrain underneath.</DesignatorRemoveFloorDesc>
+  <DesignatorRemoveFloor>أزل الأرضية</DesignatorRemoveFloor>
+  <DesignatorRemoveFloorDesc>أزل الأرضية لتعرية الأرض تحتها.</DesignatorRemoveFloorDesc>
 
-  <DesignatorStrip>Strip</DesignatorStrip>
-  <DesignatorStripDesc>Strip apparel from corpses and the wounded.</DesignatorStripDesc>
+  <DesignatorStrip>جرد</DesignatorStrip>
+  <DesignatorStripDesc>جرد الثياب من الجرحى أو الموتى.</DesignatorStripDesc>
 
-  <DesignatorRearmTrap>Rearm trap</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>Rearm a sprung trap so it can be triggered again.</DesignatorRearmTrapDesc>
+  <DesignatorRearmTrap>أعد النصب</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>أعد نصب الفخ لتفعيله مجدداً.</DesignatorRearmTrapDesc>
 
-  <DesignatorOpen>Open</DesignatorOpen>
-  <DesignatorOpenDesc>Open full graves or containers.</DesignatorOpenDesc>
+  <DesignatorOpen>إفتح</DesignatorOpen>
+  <DesignatorOpenDesc>إفتح وعاء أو قبر ممتلئ.</DesignatorOpenDesc>
 
-  <DesignatorSlaughter>Slaughter</DesignatorSlaughter>
-  <DesignatorSlaughterDesc>Slaughter a tame animal.</DesignatorSlaughterDesc>
+  <DesignatorSlaughter>إذبح</DesignatorSlaughter>
+  <DesignatorSlaughterDesc>إذبح حيوان أليف.</DesignatorSlaughterDesc>
 
-  <DesignatorTame>Tame</DesignatorTame>
-  <DesignatorTameDesc>Tame a wild animal.</DesignatorTameDesc>
+  <DesignatorTame>روض</DesignatorTame>
+  <DesignatorTameDesc>إستأنس حيوان وحشي.</DesignatorTameDesc>
 
 
   <!-- Failure messages -->

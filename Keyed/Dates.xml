@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <ClockTime>Time</ClockTime>
-  <ClockDate>Date</ClockDate>
-  <ClockYear>Year</ClockYear>
-  <DateReadoutTip>Days passed since your arrival: {0}\nCurrent quadrum: {4}\nLocal season: {2}\n\nThe year is divided into 4 quadrums of {3} days each. Quadrums are the same everywhere, while seasons are different in different places.\n\nLocal seasons for each quadrum:\n{5}</DateReadoutTip>
+  <ClockTime>الوقت</ClockTime>
+  <ClockDate>التاريخ</ClockDate>
+  <ClockYear>السنة</ClockYear>
+  <DateReadoutTip>مضت {0} أيام منذ وصولك\nالربعية الحالية: {4}\nالفصل الحالي: {2}\n\nتتكون السنة من أربع ربعيات وكل ربعية بها {3} أيام. يتغير جدول الفصول حسب المنطقة على الكوكب ولكن الربعيات تبقى كما هي.\n\nجدول الفصول هنا حسب الربعية:\n{5}</DateReadoutTip>
 
-  <FullDate>{0} of {1}, {2}</FullDate>
-	<DateReadout>{0} of {1}, {2}</DateReadout>
-  <SeasonFullDate>{0} of {1}</SeasonFullDate>
-  <WholeYear>Whole year</WholeYear>
+  <FullDate>{0} من {1}, {2}</FullDate>
+	<DateReadout>{0} من {1}, {2}</DateReadout>
+  <SeasonFullDate>{0} من {1}</SeasonFullDate>
+  <WholeYear>السنة كاملة</WholeYear>
   
 </LanguageData>
