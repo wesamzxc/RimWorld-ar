@@ -7,34 +7,34 @@
     <!-- EN: abandoned -->
     <titleShort>مهجور</titleShort>
     <!-- EN: [PAWN_nameDef] was a quick witted, funny child. One day, [PAWN_pronoun] wandered off on [PAWN_possessive] wealthy genetic parents, and was ultimately lost in a supposedly unused ore warehouse. Due to cloning technology, [PAWN_possessive] parents decided that the time looking for [PAWN_objective] was better spent on just cloning a better son. -->
-    <desc>[PAWN_nameDef] كان طفل مسل ومضحك. حتي يوم, [PAWN_pronoun] رحل مع [PAWN_possessive] يجب استخدامه في نسخ طفل جديد [PAWN_objective] و اسرته الوراثية الغنية, وتم تركه في مستودع خام. بسبب تكنولوجية النسخ, الاسرة قررت ان الوقت في </desc>
+    <desc>[PAWN_nameDef] كان طفل مسل ومضحك. حتي يوم, [PAWN_pronoun] رحل مع [PAWN_possessive] يفضل استخدامه في نسخ طفل جديد [PAWN_objective] و اسرته الوراثية الغنية,وفقد في مستودع خام. بسبب تكنولوجية النسخ, الاسرة قررت ان الوقت في ايجاد</desc>
   </AbandonedChild47>
   
   <AbandonedChild60>
     <!-- EN: abandoned child -->
-    <title>TODO</title>
+    <title>طفل مهجور</title>
     <!-- EN: abandoned -->
-    <titleShort>TODO</titleShort>
+    <titleShort>مهجور</titleShort>
     <!-- EN: [PAWN_nameDef] was born sickly. Thinking that [PAWN_pronoun] would only burden the tribe, [PAWN_possessive] parents left [PAWN_objective] out in the elements. Somehow, [PAWN_pronoun] survived. -->
-    <desc>TODO</desc>
+    <desc>  .[PAWN_pronoun] تركوه في البرية. بطريقة ما, عاش [PAWN_possessive] سيكون مشكلة للقبيلة,والدي  [PAWN_pronoun] مريض. ظنن ان [PAWN_nameDef] ولد</desc>
   </AbandonedChild60>
   
   <AbandonedOrphan61>
     <!-- EN: abandoned orphan -->
-    <title>TODO</title>
+    <title>يتيم مهجور</title>
     <!-- EN: orphan -->
-    <titleShort>TODO</titleShort>
+    <titleShort>يتيم</titleShort>
     <!-- EN: Abandoned at birth, young [PAWN_nameDef] started [PAWN_possessive] life in an orphanage.\n\nA rascal and a scoundrel, [PAWN_pronoun] became a clever troublemaker. -->
-    <desc>TODO</desc>
+    <desc> مسبب مشاكل ذكي [PAWN_pronoun] في بيت يتامه. مشاغب و نصاب, اصبح [PAWN_possessive] بدئات حياة [PAWN_nameDef] مهجور عند الولاده, الشاب </desc>
   </AbandonedOrphan61>
   
   <Abductee43>
     <!-- EN: abductee -->
-    <title>TODO</title>
+    <title>مختطف</title>
     <!-- EN: abductee -->
-    <titleShort>TODO</titleShort>
+    <titleShort>مختطف</titleShort>
     <!-- EN: [PAWN_nameDef] was abducted at a young age and forced to do menial labor on a pirate ship. -->
-    <desc>TODO</desc>
+    <desc> في عمر صغير واجبر على العمل في سفينة قراصنة [PAWN_nameDef] اختطف </desc>
   </Abductee43>
   
   <Abductee80>
